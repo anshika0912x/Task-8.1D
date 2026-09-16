@@ -1,6 +1,6 @@
 """
 Sydney Housing Price Prediction App
-SIT307 8.1 Distinction Task
+SIT307 Machine Learing - 8.1 Distinction Task
 """
 
 import os
