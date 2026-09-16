@@ -44,29 +44,67 @@ The **Log-Target Linear Regression** model produced the strongest test performan
 
 - R²: 0.770
 
-## Repository Files
+## Repository contents
 
-- `Housing.csv`  
-  Original property dataset collected for the project.
+| File | Description |
+|---|---|
+| `Housing.csv` | Original manually collected property dataset (108 properties) |
+| `Housing_Cleaned.csv` | Cleaned dataset used for analysis (106 properties) |
+| `8.1D.ipynb` | Full notebook — data preparation, EDA, feature engineering, model development, evaluation, and prediction-failure analysis |
+| `8.1D.py` | Streamlit deployment application |
+| `log_linear_model.pkl` | Trained log-target linear regression pipeline used by the app |
+| `requirements.txt` | Python packages required to run the notebook and app |
 
-- `Housing_Cleaned.csv`  
-  Cleaned dataset used for analysis and modelling.
+## Setup
 
-- `8_1D_extended.ipynb`  
-  Main Jupyter Notebook containing data preparation, exploratory analysis, feature engineering, model development, evaluation, and interpretation.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anshika0912x/Task-8.1D.git
+   cd Task-8.1D
+   ```
+2. (Recommended) create a virtual environment:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate      # Windows: venv\Scripts\activate
+   ```
+3. Install dependencies:
+   ```bash
+   python3 -m pip install -r requirements.txt
+   ```
 
-- `8.1D.py`  
-  Streamlit application for entering property characteristics and generating a predicted sale price.
+## Running the notebook
 
-- `log_linear_model.pkl`  
-  Saved trained log-target linear regression model used by the Streamlit application.
+Open `8.1D.ipynb` in Jupyter or VS Code and run all cells top to bottom. This reproduces the
+full analysis and, in the final cells, saves the trained model as `log_linear_model.pkl` in the
+same folder.
 
-- `requirements.txt`  
-  Python packages required to run the project.
+## Running the deployment app
 
-## Installation
-
-Clone or download this repository, then install the required Python packages:
+Make sure `log_linear_model.pkl` has been generated (see above) and sits in the same folder as
+`8.1D.py`, then run:
 
 ```bash
-pip install -r requirements.txt
+python3 -m streamlit run 8.1D.py
+```
+
+This opens the app at `http://localhost:8501`. Enter a suburb, property type, bedrooms,
+bathrooms, parking spaces, area, and sale month to get an estimated sale price.
+
+**Note:** if you see a `ModuleNotFoundError: No module named 'sklearn'` when launching, it
+usually means `streamlit` and `python3` are resolving to different Python installations on your
+machine. Running the app with `python3 -m streamlit run 8.1D.py` (as above), rather than the
+bare `streamlit run` command, ensures both use the same interpreter that `requirements.txt` was
+installed into.
+
+## Model summary
+
+Three regression approaches were compared on an 80/20 train/test split (stratified by suburb):
+
+| Model | Test MAE | Test RMSE | Test R² |
+|---|---|---|---|
+| Multiple Linear Regression | $670,673 | $1,111,803 | 0.654 |
+| **Log-Target Linear Regression (selected)** | **$417,310** | **$907,004** | **0.770** |
+| Polynomial Regression (deg. 2) | $843,628 | $1,307,346 | 0.521 |
+
+The log-target linear regression was selected as the final model deployed in the app, based on
+the best test-set generalisation and the smallest train/test R² gap.
