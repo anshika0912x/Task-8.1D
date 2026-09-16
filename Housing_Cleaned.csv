@@ -1,0 +1,107 @@
+Address,Suburb,Postcode,SalePrice,SaleDate,PropertyType,Bedrooms,Bathrooms,ParkingSpaces,Area_m2
+"8/88 Avenue Road, Mosman NSW 2088",Mosman,2088,730000.0,2026-09-08,Apartment,1,1,1,72.0
+"7/10 Muston Street, Mosman NSW 2088",Mosman,2088,750000.0,2026-09-03,Apartment,1,1,0,45.0
+"13/5 The Esplanade, Mosman NSW 2088",Mosman,2088,1450000.0,2026-09-14,Apartment,1,1,0,45.0
+"3/17 Milner Street, Mosman",Mosman,2088,790000.0,2026-08-21,Apartment,1,1,0,45.0
+"111/116 Belmont Road, Mosman",Mosman,2088,930000.0,2026-08-19,Apartment,1,1,1,74.0
+"4/139–153 Middle Head Road, Mosman",Mosman,2088,2600000.0,2026-08-14,Apartment,3,2,2,156.0
+"14/669 Military Road, Mosman",Mosman,2088,1600000.0,2026-08-12,Apartment,2,1,1,96.0
+"9/71 Avenue Road, Mosman",Mosman,2088,700000.0,2026-08-10,Apartment,1,1,1,72.0
+"3/6 Brierley Street, Mosman",Mosman,2088,975000.0,2026-08-04,Apartment,2,1,0,68.0
+"11/23 Warringah Road, Mosman",Mosman,2088,865000.0,2026-08-31,Apartment,1,1,1,72.0
+"22A Upper Avenue, Mosman NSW 2088",Mosman,2088,3080000.0,2026-08-10,House,4,3,2,333.0
+"77 Belmont Road, Mosman NSW 2088",Mosman,2088,4900000.0,2026-08-05,House,4,3,1,462.0
+"5 Botanic Road, Mosman NSW 2088",Mosman,2088,8700000.0,2026-07-22,House,4,3,2,437.0
+"23 Dalton Road, Mosman NSW 2088",Mosman,2088,2900000.0,2026-07-21,House,3,2,1,249.0
+"6/40 Raglan Street, Mosman",Mosman,2088,1600000.0,2026-07-27,Apartment,2,1,1,103.0
+"2/63 Muston Street, Mosman NSW 2088",Mosman,2088,6000000.0,2026-06-18,Apartment,4,3,3,631.0
+"10/16 Avenue Road, Mosman",Mosman,2088,892000.0,2026-07-20,Apartment,2,1,0,80.0
+"4/3 Millett Road, Mosman",Mosman,2088,1050000.0,2026-07-16,Apartment,2,1,1,67.0
+"7/154 Raglan Street, Mosman",Mosman,2088,785000.0,2026-07-14,Apartment,1,1,1,72.0
+"1/128–130 Avenue Road, Mosman",Mosman,2088,1415000.0,2026-07-14,Apartment,2,1,1,72.0
+"13/6 McLeod Street, Mosman",Mosman,2088,762000.0,2026-07-09,Apartment,1,1,0,72.0
+"20/96 Ourimbah Road, Mosman",Mosman,2088,1030000.0,2026-07-07,Apartment,2,1,1,72.0
+"4/125 Raglan Street, Mosman",Mosman,2088,990000.0,2026-07-07,Apartment,2,1,0,72.0
+"22/43 Musgrave Street, Mosman",Mosman,2088,1310000.0,2026-07-03,Apartment,2,1,1,66.0
+"22/96 Ourimbah Road, Mosman",Mosman,2088,1025000.0,2026-07-03,Apartment,2,1,1,72.0
+"3 Gordon Street, Mosman",Mosman,2088,7650000.0,2026-07-02,House,5,2,2,490.0
+"67 Cowles Road, Mosman",Mosman,2088,3225000.0,2026-07-02,House,4,2,0,244.0
+"36 Lang Street, Mosman",Mosman,2088,2865000.0,2026-07-02,House,3,2,1,260.0
+"21 Morella Road, Mosman",Mosman,2088,11650000.0,2026-07-01,House,4,4,2,527.0
+"31/2B Brady Street, Mosman",Mosman,2088,1925000.0,2026-06-29,Apartment,3,2,2,72.0
+"2/60A Raglan Street, Mosman",Mosman,2088,1175000.0,2026-06-26,Apartment,2,1,1,72.0
+"2/81A Glover Street, Mosman",Mosman,2088,1440000.0,2026-06-25,Apartment,2,2,1,72.0
+"3/13 Wyong Road, Mosman",Mosman,2088,1750000.0,2026-06-22,Apartment,2,2,1,72.0
+"17 Avenue Road, Mosman NSW 2088",Mosman,2088,5450000.0,2026-06-19,House,5,3,2,535.0
+"5 Central Avenue, Mosman NSW 2088",Mosman,2088,6399000.0,2026-06-19,House,5,4,2,607.0
+"8/4 Esther Road, Mosman NSW 2088",Mosman,2088,1560000.0,2026-06-19,Apartment,2,1,1,72.0
+"22 Fletcher Street, Marrickville NSW 2204",Marrickville,2204,2185000.0,2026-09-12,House,4,2,1,541.0
+"228/11-23 Gordon Street, Marrickville NSW 2204",Marrickville,2204,1475000.0,2026-09-12,Apartment,2,2,1,72.0
+"16/44-50 Ewart Street, Marrickville NSW 2204",Marrickville,2204,810000.0,2026-09-09,Apartment,2,1,0,75.0
+"124 Warren Road, Marrickville NSW 2204",Marrickville,2204,3500000.0,2026-09-08,House,5,3,3,385.0
+"53 Silver Street, Marrickville NSW 2204",Marrickville,2204,1655000.0,2026-09-04,House,2,1,0,187.0
+"6 Park Road, Marrickville NSW 2204",Marrickville,2204,1575500.0,2026-09-04,House,2,1,0,215.0
+"26/342A Marrickville Road, Marrickville NSW 2204",Marrickville,2204,1170000.0,2026-08-28,Apartment,2,2,1,85.0
+"13/2-6 Schwebel Street, Marrickville NSW 2204",Marrickville,2204,1202000.0,2026-09-03,Apartment,2,1,1,78.0
+"225/11-23 Gordon Street, Marrickville NSW 2204",Marrickville,2204,850000.0,2026-09-03,Apartment,1,1,1,65.0
+"8/261-263 Wardell Road, Marrickville NSW 2204",Marrickville,2204,690000.0,2026-09-02,Apartment,1,1,1,83.0
+"10/1-5 Glen Street, Marrickville NSW 2204",Marrickville,2204,920000.0,2026-08-28,Apartment,2,1,1,63.0
+"102/1-13 Garners Avenue, Marrickville NSW 2204",Marrickville,2204,1085000.0,2026-08-28,Apartment,1,1,1,67.0
+"27/254-258 Wardell Road, Marrickville NSW 2204",Marrickville,2204,1350000.0,2026-08-28,Apartment,2,1,1,72.0
+"605/2 Arthur Street, Marrickville NSW 2204",Marrickville,2204,1730000.0,2026-08-27,Apartment,3,2,2,155.0
+"3/7 Henson Street, Marrickville NSW 2204",Marrickville,2204,940000.0,2026-08-27,Apartment,2,1,1,61.0
+"13/19 Pile Street, Marrickville NSW 2204",Marrickville,2204,675000.0,2026-08-27,Apartment,1,1,1,72.0
+"4/7 Henson Street, Marrickville NSW 2204",Marrickville,2204,530000.0,2026-08-24,Apartment,1,1,0,72.0
+"14 Excelsior Parade, Marrickville NSW 2204",Marrickville,2204,2025000.0,2026-08-22,House,3,1,2,244.0
+"51/44-50 Ewart Street, Marrickville NSW 2204",Marrickville,2204,794000.0,2026-08-21,Apartment,2,1,0,69.0
+"419/186C Victoria Road, Marrickville NSW 2204",Marrickville,2204,855000.0,2026-08-21,Apartment,1,1,1,79.0
+"64 Silver Street, Marrickville NSW 2204",Marrickville,2204,1700000.0,2026-08-19,House,2,1,0,132.0
+"22 Ruby Street, Marrickville NSW 2204",Marrickville,2204,2510000.0,2026-08-15,House,4,2,1,455.0
+"13/25A George Street, Marrickville NSW 2204",Marrickville,2204,935000.0,2026-08-15,Apartment,2,1,1,63.0
+"5/24-26 Glen Street, Marrickville NSW 2204",Marrickville,2204,1050000.0,2026-08-14,Apartment,2,1,1,66.0
+"614/186D Victoria Road, Marrickville NSW 2204",Marrickville,2204,1355000.0,2026-08-14,Apartment,2,2,1,115.0
+"5/468 Illawarra Road, Marrickville NSW 2204",Marrickville,2204,780000.0,2026-08-14,Apartment,2,1,1,56.0
+"3/136 Livingstone Road, Marrickville NSW 2204",Marrickville,2204,1020000.0,2026-08-12,Apartment,2,1,0,67.0
+"502/326 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,945000.0,2026-08-12,Apartment,1,1,1,82.0
+"3/151-153 Illawarra Road, Marrickville NSW 2204",Marrickville,2204,1550000.0,2026-08-10,Townhouse,3,3,2,196.0
+"107/326 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,1230000.0,2026-08-10,Apartment,2,2,1,123.0
+"12/342A Marrickville Road, Marrickville NSW 2204",Marrickville,2204,1135000.0,2026-08-08,Apartment,2,2,1,72.0
+"20 Garners Avenue, Marrickville NSW 2204",Marrickville,2204,1925000.0,2026-08-06,House,2,1,0,182.0
+"19/324B Marrickville Road, Marrickville NSW 2204",Marrickville,2204,642000.0,2026-08-06,Apartment,1,1,1,72.0
+"6 Enfield Street, Marrickville NSW 2204",Marrickville,2204,2320000.0,2026-08-05,House,3,1,1,252.0
+"27/176 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,2600000.0,2026-08-05,Apartment,3,2,4,72.0
+"3/130 Newton Road, Blacktown NSW 2148",Blacktown,2148,700000.0,2026-09-14,Townhouse,2,1,1,156.0
+"4 & 4A Joseph Street, Blacktown NSW 2148",Blacktown,2148,1340000.0,2026-09-14,House,5,2,5,713.0
+"3/28 Frederick Street, Blacktown NSW 2148",Blacktown,2148,732500.0,2026-09-14,Townhouse,2,1,1,156.0
+"42 Burke Street, Blacktown NSW 2148",Blacktown,2148,1260000.0,2026-09-11,House,5,3,6,626.0
+"20/5-9 Fourth Avenue, Blacktown NSW 2148",Blacktown,2148,441000.0,2026-09-10,Apartment,2,1,1,109.0
+"36/2-4 Fourth Avenue, Blacktown NSW 2148",Blacktown,2148,415000.0,2026-09-10,Apartment,2,1,1,103.0
+"13/8-18 Wallace Street, Blacktown NSW 2148",Blacktown,2148,463000.0,2026-09-09,Apartment,2,2,1,80.0
+"9 Cardiff Street, Blacktown NSW 2148",Blacktown,2148,1089000.0,2026-09-08,House,5,2,2,556.0
+"52 Balmoral Street, Blacktown NSW 2148",Blacktown,2148,1300000.0,2026-09-08,House,4,1,1,696.0
+"9 Kirkman Road, Blacktown NSW 2148",Blacktown,2148,1070000.0,2026-09-03,House,4,1,2,638.0
+"11/130 Main Street, Blacktown NSW 2148",Blacktown,2148,375000.0,2026-09-02,Apartment,1,1,1,79.0
+"17 Carinya Street, Blacktown NSW 2148",Blacktown,2148,1600000.0,2026-09-01,House,3,1,1,1182.0
+"1103/5 Second Avenue, Blacktown NSW 2148",Blacktown,2148,420000.0,2026-09-01,Apartment,2,2,1,84.0
+"38-38A Burrell Parade, Blacktown NSW 2148",Blacktown,2148,1480000.0,2026-08-28,House,5,3,4,563.0
+"73/31 Third Avenue, Blacktown NSW 2148",Blacktown,2148,452000.0,2026-08-26,Apartment,2,2,1,75.0
+"39 Burke Street, Blacktown NSW 2148",Blacktown,2148,1500000.0,2026-08-26,House,5,3,2,604.0
+"19 Stephen Street, Blacktown NSW 2148",Blacktown,2148,1062500.0,2026-08-26,House,3,1,1,575.0
+"7/45 Lyton Street, Blacktown NSW 2148",Blacktown,2148,805000.0,2026-08-25,Townhouse,2,2,1,229.0
+"903/5 Second Avenue, Blacktown NSW 2148",Blacktown,2148,600000.0,2026-08-24,Apartment,3,2,2,179.0
+"6 Fringe Glade, Blacktown NSW 2148",Blacktown,2148,790000.0,2026-08-24,Townhouse,2,2,1,126.0
+"6 Garden Street, Blacktown NSW 2148",Blacktown,2148,1235000.0,2026-08-20,House,4,2,6,556.0
+"41/25 Mantaka Street, Blacktown NSW 2148",Blacktown,2148,435000.0,2026-08-20,Apartment,2,1,1,84.0
+"41 Dagmar Crescent, Blacktown NSW 2148",Blacktown,2148,880000.0,2026-08-18,House,3,1,2,569.0
+"94 Lancelot Street, Blacktown NSW 2148",Blacktown,2148,950000.0,2026-08-18,House,3,1,1,562.0
+"69/25 Mantaka Street, Blacktown NSW 2148",Blacktown,2148,419000.0,2026-08-17,Apartment,2,1,1,84.0
+"41 Anthony Street, Blacktown NSW 2148",Blacktown,2148,910000.0,2026-08-17,House,3,1,1,683.0
+"36/130 Main Street, Blacktown NSW 2148",Blacktown,2148,443000.0,2026-08-17,Apartment,2,2,1,76.0
+"45 & 45A Dina Beth Avenue, Blacktown NSW 2148",Blacktown,2148,1250000.0,2026-08-14,House,5,2,4,604.0
+"28 Eggleton Street, Blacktown NSW 2148",Blacktown,2148,1263000.0,2026-08-13,House,3,1,2,866.0
+"2/31 Third Avenue, Blacktown NSW 2148",Blacktown,2148,380000.0,2026-08-13,Apartment,1,1,1,58.0
+"12 Glamorgan Street, Blacktown NSW 2148",Blacktown,2148,1030000.0,2026-08-11,House,3,1,1,556.0
+"307/11-13 Clifton Street, Blacktown NSW 2148",Blacktown,2148,575000.0,2026-08-11,Apartment,2,2,1,84.0
+"15/25 Kildare Road, Blacktown NSW 2148",Blacktown,2148,460000.0,2026-08-11,Apartment,2,1,1,99.0
+"41 Burrell Parade, Blacktown NSW 2148",Blacktown,2148,960000.0,2026-08-11,House,3,1,2,556.0
+"57 Walters Road, Blacktown NSW 2148",Blacktown,2148,1221000.0,2026-08-08,House,3,1,1,835.0

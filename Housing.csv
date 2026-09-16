@@ -1,0 +1,109 @@
+﻿Address,Suburb,Postcode,SalePrice,SaleDate,PropertyType,Bedrooms,Bathrooms,ParkingSpaces,Area_m2
+"8/88 Avenue Road, Mosman NSW 2088",Mosman,2088,"730,000",8-Sep-26,Apartment,1,1,1,NaN
+"7/10 Muston Street, Mosman NSW 2088",Mosman,2088,"750,000",3-Sep-26,Apartment,1,1,0,45
+"13/5 The Esplanade, Mosman NSW 2088",Mosman,2088,"$1,450,000 ",14-Sep-26,Apartment,1,1,0,45
+"3/17 Milner Street, Mosman",Mosman,2088,"$790,000 ",21-Aug-26,Apartment,1,1,0,45
+"111/116 Belmont Road, Mosman",Mosman,2088,"$930,000 ",19-Aug-26,Apartment,1,1,1,74
+"4/139–153 Middle Head Road, Mosman",Mosman,2088,"$2,600,000 ",14-Aug-26,Apartment,3,2,2,156
+"14/669 Military Road, Mosman",Mosman,2088,"$1,600,000 ",12-Aug-26,Apartment,2,1,1,96
+"9/71 Avenue Road, Mosman",Mosman,2088,"$700,000 ",10-Aug-26,Apartment,1,1,1,NaN
+"3/6 Brierley Street, Mosman",Mosman,2088,"$975,000 ",4-Aug-26,Apartment,2,1,0,68
+"11/23 Warringah Road, Mosman",Mosman,2088,"$865,000 ",31-Aug-26,Apartment,1,1,1,NaN
+"22A Upper Avenue, Mosman NSW 2088",Mosman,2088,"$3,080,000 ",10-Aug-26,House,4,3,2,333
+"77 Belmont Road, Mosman NSW 2088",Mosman,2088,"$4,900,000 ",5-Aug-26,House,4,3,1,462
+"142/15 Hale Road, Mosman NSW 2088",Mosman,2088,"$3,800,000 ",24-Jul-26,Retirement Living,3,2,2,NaN
+"5 Botanic Road, Mosman NSW 2088",Mosman,2088,"$8,700,000 ",22-Jul-26,House,4,3,2,437
+"23 Dalton Road, Mosman NSW 2088",Mosman,2088,"$2,900,000 ",21-Jul-26,Semi Detached,3,2,1,249
+"6/40 Raglan Street, Mosman",Mosman,2088,"$1,600,000 ",27-Jul-26,Apartment,2,1,1,103
+"2/63 Muston Street, Mosman NSW 2088",Mosman,2088,"$6,000,000 ",18-Jun-26,Apartment,4,3,3,631
+"10/16 Avenue Road, Mosman",Mosman,2088,"$892,000 ",20-Jul-26,Apartment,2,1,0,80
+"4/3 Millett Road, Mosman",Mosman,2088,"$1,050,000 ",16-Jul-26,Apartment,2,1,1,67
+"7/154 Raglan Street, Mosman",Mosman,2088,"$785,000 ",14-Jul-26,Apartment,1,1,1,NaN
+"1/128–130 Avenue Road, Mosman",Mosman,2088,"$1,415,000 ",14-Jul-26,Apartment,2,1,1,NaN
+"13/6 McLeod Street, Mosman",Mosman,2088,"$762,000 ",9-Jul-26,Apartment,1,1,0,NaN
+"20/96 Ourimbah Road, Mosman",Mosman,2088,"$1,030,000 ",7-Jul-26,Apartment,2,1,1,72
+"4/125 Raglan Street, Mosman",Mosman,2088,"$990,000 ",7-Jul-26,Apartment,2,1,0,NaN
+"22/43 Musgrave Street, Mosman",Mosman,2088,"$1,310,000 ",3-Jul-26,Apartment,2,1,1,66
+"22/96 Ourimbah Road, Mosman",Mosman,2088,"$1,025,000 ",3-Jul-26,Apartment,2,1,1,NaN
+"3 Gordon Street, Mosman",Mosman,2088,"$7,650,000 ",2-Jul-26,House,5,2,2,490
+"67 Cowles Road, Mosman",Mosman,2088,"$3,225,000 ",2-Jul-26,House,4,2,0,244
+"36 Lang Street, Mosman",Mosman,2088,"$2,865,000 ",2-Jul-26,House,3,2,1,260
+"21 Morella Road, Mosman",Mosman,2088,"$11,650,000.00",1-Jul-26,House,4,4,2,527
+"31/2B Brady Street, Mosman",Mosman,2088,"$1,925,000 ",29-Jun-26,Apartment,3,2,2,NaN
+"2/60A Raglan Street, Mosman",Mosman,2088,"$1,175,000 ",26-Jun-26,Apartment,2,1,1,NaN
+"2/81A Glover Street, Mosman",Mosman,2088,"$1,440,000 ",25-Jun-26,Apartment,2,2,1,NaN
+"3/13 Wyong Road, Mosman",Mosman,2088,"$1,750,000 ",22-Jun-26,Apartment,2,2,1,NaN
+"17 Avenue Road, Mosman NSW 2088",Mosman,2088,"$5,450,000 ",19-Jun-26,House,5,3,2,535
+"5 Central Avenue, Mosman NSW 2088",Mosman,2088,"$6,399,000 ",19-Jun-26,House,5,4,2,607
+"8/4 Esther Road, Mosman NSW 2088",Mosman,2088,"$1,560,000 ",19-Jun-26,Apartment,2,1,1,NaN
+"22 Fletcher Street, Marrickville NSW 2204",Marrickville,2204,"$2,185,000 ",12-Sep-26,House,4,2,1,541
+"228/11-23 Gordon Street, Marrickville NSW 2204",Marrickville,2204,"$1,475,000 ",12-Sep-26,Apartment,2,2,1,NaN
+"16/44-50 Ewart Street, Marrickville NSW 2204",Marrickville,2204,"$810,000 ",9-Sep-26,Apartment,2,1,0,75
+"124 Warren Road, Marrickville NSW 2204",Marrickville,2204,"$3,500,000 ",8-Sep-26,House,5,3,3,385
+"53 Silver Street, Marrickville NSW 2204",Marrickville,2204,"$1,655,000 ",4-Sep-26,House,2,1,0,187
+"6 Park Road, Marrickville NSW 2204",Marrickville,2204,"$1,575,500 ",4-Sep-26,House,2,1,0,215
+"26/342A Marrickville Road, Marrickville NSW 2204",Marrickville,2204,"$1,170,000 ",28-Aug-26,Apartment,2,2,1,85
+"13/2-6 Schwebel Street, Marrickville NSW 2204",Marrickville,2204,"$1,202,000 ",3-Sep-26,Apartment,2,1,1,78
+"225/11-23 Gordon Street, Marrickville NSW 2204",Marrickville,2204,"$850,000 ",3-Sep-26,Apartment,1,1,1,65
+"8/261-263 Wardell Road, Marrickville NSW 2204",Marrickville,2204,"$690,000 ",2-Sep-26,Apartment,1,1,1,83
+"10/1-5 Glen Street, Marrickville NSW 2204",Marrickville,2204,"$920,000 ",28-Aug-26,Apartment,2,1,1,63
+"102/1-13 Garners Avenue, Marrickville NSW 2204",Marrickville,2204,"$1,085,000 ",28-Aug-26,Apartment,1,1,1,67
+"27/254-258 Wardell Road, Marrickville NSW 2204",Marrickville,2204,"$1,350,000 ",28-Aug-26,Apartment,2,1,1,NaN
+"605/2 Arthur Street, Marrickville NSW 2204",Marrickville,2204,"$1,730,000 ",27-Aug-26,Apartment,3,2,2,155
+"3/7 Henson Street, Marrickville NSW 2204",Marrickville,2204,"$940,000 ",27-Aug-26,Apartment,2,1,1,61
+"13/19 Pile Street, Marrickville NSW 2204",Marrickville,2204,"$675,000 ",27-Aug-26,Apartment,1,1,1,NaN
+"4/7 Henson Street, Marrickville NSW 2204",Marrickville,2204,"$530,000 ",24-Aug-26,Apartment,1,1,0,NaN
+"14 Excelsior Parade, Marrickville NSW 2204",Marrickville,2204,"$2,025,000 ",22-Aug-26,House,3,1,2,244
+"51/44-50 Ewart Street, Marrickville NSW 2204",Marrickville,2204,"$794,000 ",21-Aug-26,Apartment,2,1,0,69
+"419/186C Victoria Road, Marrickville NSW 2204",Marrickville,2204,"$855,000 ",21-Aug-26,Apartment,1,1,1,79
+"64 Silver Street, Marrickville NSW 2204",Marrickville,2204,"$1,700,000 ",19-Aug-26,House,2,1,0,132
+"22 Ruby Street, Marrickville NSW 2204",Marrickville,2204,"$2,510,000 ",15-Aug-26,House,4,2,1,455
+"13/25A George Street, Marrickville NSW 2204",Marrickville,2204,"$935,000 ",15-Aug-26,Apartment,2,1,1,63
+"5/24-26 Glen Street, Marrickville NSW 2204",Marrickville,2204,"$1,050,000 ",14-Aug-26,Apartment,2,1,1,66
+"614/186D Victoria Road, Marrickville NSW 2204",Marrickville,2204,"$1,355,000 ",14-Aug-26,Apartment,2,2,1,115
+"5/468 Illawarra Road, Marrickville NSW 2204",Marrickville,2204,"$780,000 ",14-Aug-26,Apartment,2,1,1,56
+"3/136 Livingstone Road, Marrickville NSW 2204",Marrickville,2204,"$1,020,000 ",12-Aug-26,Apartment,2,1,0,67
+"502/326 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,"$945,000 ",12-Aug-26,Apartment,1,1,1,82
+"3/151-153 Illawarra Road, Marrickville NSW 2204",Marrickville,2204,"$1,550,000 ",10-Aug-26,Townhouse,3,3,2,196
+"107/326 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,"$1,230,000 ",10-Aug-26,Apartment,2,2,1,123
+"12/342A Marrickville Road, Marrickville NSW 2204",Marrickville,2204,"$1,135,000 ",8-Aug-26,Apartment,2,2,1,NaN
+"20 Garners Avenue, Marrickville NSW 2204",Marrickville,2204,"$1,925,000 ",6-Aug-26,House,2,1,0,182
+"19/324B Marrickville Road, Marrickville NSW 2204",Marrickville,2204,"$642,000 ",6-Aug-26,Apartment,1,1,1,NaN
+"6 Enfield Street, Marrickville NSW 2204",Marrickville,2204,"$2,320,000 ",5-Aug-26,House,3,1,1,252
+"27/176 Marrickville Road, Marrickville NSW 2204",Marrickville,2204,"$2,600,000 ",5-Aug-26,Apartment,3,2,4,NaN
+"3/130 Newton Road, Blacktown NSW 2148",Blacktown,2148,"$700,000 ",14-Sep-26,Townhouse,2,1,1,156
+"4 & 4A Joseph Street, Blacktown NSW 2148",Blacktown,2148,"$1,340,000 ",14-Sep-26,House,5,2,5,713
+"3/28 Frederick Street, Blacktown NSW 2148",Blacktown,2148,"$732,500 ",14-Sep-26,Townhouse,2,1,1,NaN
+"42 Burke Street, Blacktown NSW 2148",Blacktown,2148,"$1,260,000 ",11-Sep-26,House,5,3,6,626
+"20/5-9 Fourth Avenue, Blacktown NSW 2148",Blacktown,2148,"$441,000 ",10-Sep-26,Apartment,2,1,1,109
+"36/2-4 Fourth Avenue, Blacktown NSW 2148",Blacktown,2148,"$415,000 ",10-Sep-26,Unit,2,1,1,103
+"13/8-18 Wallace Street, Blacktown NSW 2148",Blacktown,2148,"$463,000 ",9-Sep-26,Apartment,2,2,1,80
+"9 Cardiff Street, Blacktown NSW 2148",Blacktown,2148,"$1,089,000 ",8-Sep-26,House,5,2,2,556
+"52 Balmoral Street, Blacktown NSW 2148",Blacktown,2148,"$1,300,000 ",8-Sep-26,House,4,1,1,696
+"9 Kirkman Road, Blacktown NSW 2148",Blacktown,2148,"$1,070,000 ",3-Sep-26,House,4,1,2,638
+"11/130 Main Street, Blacktown NSW 2148",Blacktown,2148,"$375,000 ",2-Sep-26,Apartment,1,1,1,79
+"17 Carinya Street, Blacktown NSW 2148",Blacktown,2148,"$1,600,000 ",1-Sep-26,House,3,1,1,"1,182"
+"1103/5 Second Avenue, Blacktown NSW 2148",Blacktown,2148,"$420,000 ",1-Sep-26,Apartment,2,2,1,NaN
+"38-38A Burrell Parade, Blacktown NSW 2148",Blacktown,2148,"$1,480,000 ",28-Aug-26,House,5,3,4,563
+"73/31 Third Avenue, Blacktown NSW 2148",Blacktown,2148,"$452,000 ",26-Aug-26,Apartment,2,2,1,75
+"39 Burke Street, Blacktown NSW 2148",Blacktown,2148,"$1,500,000 ",26-Aug-26,House,5,3,2,604
+"19 Stephen Street, Blacktown NSW 2148",Blacktown,2148,"$1,062,500 ",26-Aug-26,House,3,1,1,575
+"7/45 Lyton Street, Blacktown NSW 2148",Blacktown,2148,"$805,000 ",25-Aug-26,Townhouse,2,2,1,229
+"903/5 Second Avenue, Blacktown NSW 2148",Blacktown,2148,"$600,000 ",24-Aug-26,Apartment,3,2,2,179
+"6 Fringe Glade, Blacktown NSW 2148",Blacktown,2148,"$790,000 ",24-Aug-26,Townhouse,2,2,1,126
+"6 Garden Street, Blacktown NSW 2148",Blacktown,2148,"$1,235,000 ",20-Aug-26,House,4,2,6,556
+"41/25 Mantaka Street, Blacktown NSW 2148",Blacktown,2148,"$435,000 ",20-Aug-26,Apartment,2,1,1,84
+"41 Dagmar Crescent, Blacktown NSW 2148",Blacktown,2148,"$880,000 ",18-Aug-26,House,3,1,2,569
+"94 Lancelot Street, Blacktown NSW 2148",Blacktown,2148,"$950,000 ",18-Aug-26,House,3,1,1,562
+"69/25 Mantaka Street, Blacktown NSW 2148",Blacktown,2148,"$419,000 ",17-Aug-26,Apartment,2,1,1,84
+"41 Anthony Street, Blacktown NSW 2148",Blacktown,2148,"$910,000 ",17-Aug-26,House,3,1,1,683
+"36/130 Main Street, Blacktown NSW 2148",Blacktown,2148,"$443,000 ",17-Aug-26,Apartment,2,2,1,76
+"45 & 45A Dina Beth Avenue, Blacktown NSW 2148",Blacktown,2148,"$1,250,000 ",14-Aug-26,House,5,2,4,NaN
+"28 Eggleton Street, Blacktown NSW 2148",Blacktown,2148,"$1,263,000 ",13-Aug-26,House,3,1,2,866
+"2/31 Third Avenue, Blacktown NSW 2148",Blacktown,2148,"$380,000 ",13-Aug-26,Apartment,1,1,1,58
+"12 Glamorgan Street, Blacktown NSW 2148",Blacktown,2148,"$1,030,000 ",11-Aug-26,House,3,1,1,556
+"307/11-13 Clifton Street, Blacktown NSW 2148",Blacktown,2148,"$575,000 ",11-Aug-26,Apartment,2,2,1,NaN
+"15/25 Kildare Road, Blacktown NSW 2148",Blacktown,2148,"$460,000 ",11-Aug-26,Apartment,2,1,1,99
+"41 Burrell Parade, Blacktown NSW 2148",Blacktown,2148,"$960,000 ",11-Aug-26,House,3,1,2,556
+"57 Walters Road, Blacktown NSW 2148",Blacktown,2148,"$1,221,000 ",8-Aug-26,House,3,1,1,835
+,,,,,,,,,
